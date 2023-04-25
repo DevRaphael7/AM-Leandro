@@ -1,3 +1,3 @@
 # Atividade da aula da uninove.
 
-Treinamento de modelos usando **Naive Bayes** e **Grid Search** com 10 classes de treinamento.
+Treinamento de modelos usando **Grid Search** com 10 classes de treinamento.
